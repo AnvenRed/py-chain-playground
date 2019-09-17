@@ -1,4 +1,6 @@
 # pyChain
-Block Chain -> Game
 
-Martin is a romantic fool
+Blockchain Playground
+
+Technologies Used:
+Python, Flask
